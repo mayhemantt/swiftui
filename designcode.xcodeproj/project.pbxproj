@@ -11,6 +11,8 @@
 		480FD8AD2655182600AB0EBD /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 480FD8AC2655182600AB0EBD /* ContentView.swift */; };
 		480FD8AF2655182700AB0EBD /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 480FD8AE2655182700AB0EBD /* Assets.xcassets */; };
 		480FD8B22655182700AB0EBD /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 480FD8B12655182700AB0EBD /* Preview Assets.xcassets */; };
+		4837B22D2658FDF000BD6C2D /* Home.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4837B22C2658FDF000BD6C2D /* Home.swift */; };
+		4837B22F26597E9400BD6C2D /* HomeList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4837B22E26597E9400BD6C2D /* HomeList.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +22,8 @@
 		480FD8AE2655182700AB0EBD /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		480FD8B12655182700AB0EBD /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		480FD8B32655182700AB0EBD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		4837B22C2658FDF000BD6C2D /* Home.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Home.swift; sourceTree = "<group>"; };
+		4837B22E26597E9400BD6C2D /* HomeList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeList.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,8 +58,10 @@
 			children = (
 				480FD8AA2655182600AB0EBD /* designcodeApp.swift */,
 				480FD8AC2655182600AB0EBD /* ContentView.swift */,
+				4837B22C2658FDF000BD6C2D /* Home.swift */,
 				480FD8AE2655182700AB0EBD /* Assets.xcassets */,
 				480FD8B32655182700AB0EBD /* Info.plist */,
+				4837B22E26597E9400BD6C2D /* HomeList.swift */,
 				480FD8B02655182700AB0EBD /* Preview Content */,
 			);
 			path = designcode;
@@ -139,6 +145,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				480FD8AD2655182600AB0EBD /* ContentView.swift in Sources */,
+				4837B22D2658FDF000BD6C2D /* Home.swift in Sources */,
+				4837B22F26597E9400BD6C2D /* HomeList.swift in Sources */,
 				480FD8AB2655182600AB0EBD /* designcodeApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
